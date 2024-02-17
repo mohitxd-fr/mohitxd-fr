@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://c8.alamy.com/comp/2RPKNB1/horizontal-futuristic-background-with-human-profile-from-a-binary-code-and-abstract-circuit-board-global-communication-cyber-technology-and-networki-2RPKNB1.jpg)](https://github.com/mohitxd-fr)
 
 <h1 align="center">Hi 👋, I'm Mohit Budhlakoti</h1>
 <h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
