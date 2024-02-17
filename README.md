@@ -1,4 +1,4 @@
-[![MasterHead](https://c8.alamy.com/comp/2RPKNB1/horizontal-futuristic-background-with-human-profile-from-a-binary-code-and-abstract-circuit-board-global-communication-cyber-technology-and-networki-2RPKNB1.jpg)](https://github.com/mohitxd-fr)
+[![MasterHead](https://www.shutterstock.com/image-photo/data-science-digital-technology-cloud-260nw-2312893023.jpg)](https://github.com/mohitxd-fr)
 
 <h1 align="center">Hi 👋, I'm Mohit Budhlakoti</h1>
 <h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
