@@ -1,4 +1,3 @@
-[![MasterHead](https://xefino.com/wp-content/uploads/2021/08/top_software.jpg)](https://github.com/mohitxd-fr)
 <h1 align="center">Hi 👋, I'm Mohit Budhlakoti</h1>
 <h3 align="center">A passionate DevOps Engineer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
