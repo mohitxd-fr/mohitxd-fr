@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/mohit-fr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-budhlakoti-9a707a252/" height="30" width="40" /></a>
 <a href="https://instagram.com/w.moheat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.moheat" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moheat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moheat" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mohit-fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="moheat" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/moheat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="moheat" height="30" width="40" /></a>
 <a href="https://discord.gg/w.moheat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="w.moheat" height="30" width="40" /></a>
 </p>
 
