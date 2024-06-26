@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React Native, Cloud**
 
-- 👨‍💻 All of my projects are available at [https://mohitxd-fr.github.io/Personal-Portfolio/](https://mohitxd-fr.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohitxd-fr?tab=repositories)
 
-- 📝 I regularly write articles on [https://twitter.com/whyy_mohit](https://twitter.com/whyy_mohit)
+- 📝 I regularly write articles on [Twitter](https://twitter.com/whyy_mohit)
 
-- 💬 Ask me about **MERN, Open Source**
+- 💬 Ask me about **Web Development, DevOps, Cloud, Open Source**
 
 - 📫 How to reach me **kartikbudhlakoti3@gmail.com**
 
