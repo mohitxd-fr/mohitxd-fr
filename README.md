@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitxd-fr&label=Profile%20views&color=0e75b6&style=flat" alt="mohitxd-fr" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohit-fr/" target="blank"><img src="https://img.shields.io/linkedin/follow/mohit-fr?logo=twitter&style=for-the-badge" alt="mohit-fr" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mohit-fr/" target="blank"><img src="https://img.shields.io/twitter/follow/mohit-fr?logo=twitter&style=for-the-badge" alt="mohit-fr" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, Cloud**
 
