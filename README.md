@@ -33,6 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitxd-fr&show_icons=true&locale=en&layout=compact" alt="mohitxd-fr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitxd-fr&show_icons=true&locale=en" alt="mohitxd-fr" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mohitxd-fr)](https://git.io/streak-stats)
